@@ -1,0 +1,14 @@
+/Users/marathasanov/Desktop/_vsCode/obj/Debug/net9.0/_vsCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marathasanov/Desktop/_vsCode/obj/Debug/net9.0/_vsCode.AssemblyInfoInputs.cache
+/Users/marathasanov/Desktop/_vsCode/obj/Debug/net9.0/_vsCode.AssemblyInfo.cs
+/Users/marathasanov/Desktop/_vsCode/obj/Debug/net9.0/_vsCode.csproj.CoreCompileInputs.cache
+/Users/marathasanov/Desktop/_vsCode/bin/Debug/net9.0/_vsCode
+/Users/marathasanov/Desktop/_vsCode/bin/Debug/net9.0/_vsCode.deps.json
+/Users/marathasanov/Desktop/_vsCode/bin/Debug/net9.0/_vsCode.runtimeconfig.json
+/Users/marathasanov/Desktop/_vsCode/bin/Debug/net9.0/_vsCode.dll
+/Users/marathasanov/Desktop/_vsCode/bin/Debug/net9.0/_vsCode.pdb
+/Users/marathasanov/Desktop/_vsCode/obj/Debug/net9.0/_vsCode.dll
+/Users/marathasanov/Desktop/_vsCode/obj/Debug/net9.0/refint/_vsCode.dll
+/Users/marathasanov/Desktop/_vsCode/obj/Debug/net9.0/_vsCode.pdb
+/Users/marathasanov/Desktop/_vsCode/obj/Debug/net9.0/_vsCode.genruntimeconfig.cache
+/Users/marathasanov/Desktop/_vsCode/obj/Debug/net9.0/ref/_vsCode.dll
