@@ -1,0 +1,27 @@
+.item-title {
+    background-color: rgb(118, 118, 208);
+}
+
+#red {
+    color: red;
+}
+
+.d1 {
+    width: 100px;
+    height: 100px;
+    background: #83a7c8;
+    border-radius: 50%;
+}
+
+h2 {
+    font-style: italic;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+p {
+    color: beige;
+    background-color: red;
+}
